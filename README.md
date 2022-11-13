@@ -6,6 +6,6 @@
 
 ### Transcation history and details in Ganache. 
 
-![](./Screen%20Shot%202022-11-13%20at%204.08.46%20pm.png)
+![](./Ganache%20details.png)
 
 ![](history.png)
